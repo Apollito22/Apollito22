@@ -1,4 +1,4 @@
-![Miranda — Suporte e Infraestrutura de TI](banner.svg)
+![Miranda — Suporte e Infraestrutura de TI](banner.svg?v=2)
 
 <div align="center">
 
