@@ -1,4 +1,4 @@
-# Minha trajetória 🌷
+# Minha trajetória
 
 **Matheus Miranda**
 
@@ -8,7 +8,7 @@ Estagiário de TI com atuação em suporte técnico e infraestrutura. Aqui reún
 
 ---
 
-## 🖥️ O que faço
+## O que faço
 
 Atuo diretamente no suporte aos usuários e na infraestrutura de TI. Tenho experiência nas seguintes atividades:
 
@@ -22,7 +22,7 @@ Atuo diretamente no suporte aos usuários e na infraestrutura de TI. Tenho exper
 | Redes sem fio | Uso da controladora Ruckus pela interface web. |
 | Câmeras | Configuração e manutenção de equipamentos Intelbras e Hikvision. |
 
-## 🎓 Formação acadêmica
+## Formação acadêmica
 
 ### Sistemas de Informação
 
@@ -33,7 +33,7 @@ Previsão de conclusão: **final de 2027**.
 
 **CTPM II — Colégio Tiradentes da Polícia Militar II, Rondônia** · Concluído.
 
-## 📚 Cursos e formação complementar
+## Cursos e formação complementar
 
 | Curso | Instituição / responsável | Carga horária |
 | --- | --- | --- |
@@ -46,17 +46,17 @@ Previsão de conclusão: **final de 2027**.
 Criado por **Cristiano Figueiredo**, pela **Hotmart**.  
 Carga horária total do curso: **40 horas**. Curso iniciado e ainda não concluído.
 
-## 💡 Eventos e experiências
+## Eventos e experiências
 
 **Startup Weekend IA Criciúma — 2025**  
 Participação no evento.
 
 ---
 
-## 🔗 Vamos nos conectar?
+## Vamos nos conectar?
 
 - [LinkedIn — Matheus Miranda](https://www.linkedin.com/in/matheus-miranda-2270ab358/)
 - [Instagram — @matheus_mirnda](https://www.instagram.com/matheus_mirnda/)
 - [GitHub — @Apollito22](https://github.com/Apollito22)
 
-<div align="center"><sub>✦ Uma trajetória em construção, um aprendizado de cada vez. ✦</sub></div>
+<div align="center"><sub>Uma trajetória em construção, um aprendizado de cada vez.</sub></div>
