@@ -48,7 +48,7 @@ Carga horária total do curso: **40 horas**. Curso iniciado e ainda não conclu�
 
 ## 💡 Eventos e experiências
 
-**Startup Weekend IA Criciúma**  
+**Startup Weekend IA Criciúma — 2025**  
 Participação no evento.
 
 ---

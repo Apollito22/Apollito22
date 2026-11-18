@@ -30,7 +30,7 @@ Atuo como **estagiário na área de TI**, trabalhando diretamente com suporte ao
 
 Curso **Sistemas de Informação na ESUCRI**, com previsão de conclusão no **final de 2027**. Minha formação complementar inclui Java com programação orientada a objetos e redes de computadores, além de um curso de redes, MikroTik e Linux ainda não concluído.
 
-Também participei do **Startup Weekend IA Criciúma**. 💡
+Também participei do **Startup Weekend IA Criciúma**, em **2025**. 💡
 
 🌷 **[Conheça minha trajetória completa →](MINHA-TRAJETORIA.md)**
 
